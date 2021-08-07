@@ -1,5 +1,5 @@
 {
-	"name": "agility-cms-nuxt-starter",
+	"name": "IndyTacos Nuxt",
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
@@ -14,7 +14,7 @@
 		"@agility/agilitycms-nuxt-module": "^1.0.14",
 		"@fortawesome/free-brands-svg-icons": "^5.15.3",
 		"@fortawesome/free-solid-svg-icons": "^5.15.3",
-		"nuxt": "^2.15.3",
+		"nuxt": "^2.15.7",
 		"nuxt-fontawesome": "^0.4.0",
 		"truncate-html": "^1.0.3"
 	},
