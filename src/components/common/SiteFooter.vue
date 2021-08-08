@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto md:flex md:items-center">
       <div class="text-center mb-4 md:mb-0 md:text-left flex-shrink-0 relative">
         <a
-          href="/"
+          href="https://indytacos.xyz"
           target="_blank"
           rel="noreferrer"
           title="Indy Tacos"
