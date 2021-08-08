@@ -2,20 +2,7 @@
   <footer class="relative px-8 py-6 md:py-4 mt-8 bg-gray-100">
     <div class="max-w-screen-xl mx-auto md:flex md:items-center">
       <div class="text-center mb-4 md:mb-0 md:text-left flex-shrink-0 relative">
-        <a
-          href="https://indytacos.xyz"
-          target="_blank"
-          rel="noreferrer"
-          title="Indy Tacos"
-        >
-          <img
-            src="~/assets/indy-tacos-logo.svg"
-            alt="Indy Tacos"
-            width="90"
-            height="24"
-            class="mx-auto"
-          />
-        </a>
+        
       </div>
       <div class="flex-grow mb-4 md:mb-0">
         <p
